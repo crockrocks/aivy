@@ -53,7 +53,8 @@ const logOut = () => {
             <Hero />
             <Roadmap />
             <Benefits />
-            <Services />
+            {/* <Services /> */}
+            <Pricing />
             <Footer />
 
       <ButtonGradient />
